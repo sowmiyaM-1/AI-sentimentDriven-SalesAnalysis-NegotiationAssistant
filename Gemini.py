@@ -7,7 +7,7 @@ import os
 from textblob import TextBlob
 
 # Configure Gemini API
-api_key = "AIzaSyDyK4nUUfheDz0JxOQKZHHbzvHFcnEzcdc"
+api_key = ""
 genai.configure(api_key=api_key)
 
 # Initialize speech engine and recognizer
