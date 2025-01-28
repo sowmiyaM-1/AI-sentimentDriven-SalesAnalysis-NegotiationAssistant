@@ -9,7 +9,7 @@ from datetime import datetime
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # Configure Gemini API
-api_key = "AIzaSyDcaMWRY-8VMU0wg5HOl0ZUP6aDYvIaSkk"
+api_key = "Gemini key"
 genai.configure(api_key=api_key)
 
 # Initialize the SentimentIntensityAnalyzer
