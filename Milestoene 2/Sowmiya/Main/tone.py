@@ -4,7 +4,7 @@ import numpy as np
 import google.generativeai as genai
 
 # Configure the Gemini API with your API key
-genai.configure(api_key="AIzaSyBU38Xa-hN6oDm7gyZDwEi6as9r1zZG8yk")
+genai.configure(api_key="Actual key")
 
 class ToneSentimentAnalyzer:
     def __init__(self, sample_rate=16000, chunk_size=1024, vad_threshold=0.02):
