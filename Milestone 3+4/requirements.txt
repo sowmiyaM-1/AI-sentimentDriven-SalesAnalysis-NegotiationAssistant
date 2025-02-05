@@ -1,4 +1,4 @@
-streamlit==1.25.0       # For building the app UI
+streamlit==1.38.0       # For building the app UI
 openpyxl==3.1.2         # For handling Excel files
 vaderSentiment==3.3.2   # For sentiment analysis
 google-generativeai     # For Gemini API interaction
